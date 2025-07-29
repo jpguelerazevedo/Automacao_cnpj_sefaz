@@ -1,1 +1,2 @@
-Comando artisan para uniciar o robo: php artisan certidao:download "28.625.074/0001-32"
+- Comando artisan para uniciar o robo: php artisan certidao:download "28.625.074/0001-32" (o cnpj que escolher).
+- O PDF sera salvo no storage do laravel.
